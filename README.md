@@ -7,4 +7,9 @@ no seu computador pode aparecer uma mensagem que diz que não e seguro mais igno
 pois o maximo que arquivos .BAT podem prejudicar e travando o seu computador
 mais eu não vou fazer isso, e fiz uma ferramenta util e relaxante
 
+# por que aparece o alerta ?
+
+por que todos os arquivos .BAT aparecem esse alerta, menos se você criou.
+mas relaxe ele não prejudicar seu computador.
+
 
