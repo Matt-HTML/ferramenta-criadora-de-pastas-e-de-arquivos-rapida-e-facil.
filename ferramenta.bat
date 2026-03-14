@@ -1,4 +1,5 @@
 @echo off
+mode 100,25
 title Gerenciador de Pastas e Arquivos
 
 :inicio
