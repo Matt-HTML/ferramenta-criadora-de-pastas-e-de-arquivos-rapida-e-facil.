@@ -12,4 +12,8 @@ mais eu não vou fazer isso, e fiz uma ferramenta util e relaxante
 por que todos os arquivos .BAT aparecem esse alerta, menos se você criou.
 mas relaxe ele não prejudicar seu computador.
 
+# como baixar certo
+
+Clique em CODIGO e em baixar zip.
+se quiser (recomendo) coloque a ferramenta na area de trabalho. 
 
